@@ -1,1 +1,0 @@
-const o=e=>console.log(e),t=e=>document.querySelector(e),l=e=>document.querySelectorAll(e),s=e=>Number(window.getComputedStyle(t(e),null).getPropertyValue("width").split("px")[0])/2;export{t as $,l as a,s as g,o as l};
